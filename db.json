@@ -1,0 +1,78 @@
+{
+  "greeting": ["hello", "xin chao", "你好", "hola"],
+  "users": [
+    {
+      "name": "Ada",
+      "email": "Donald52@hotmail.com",
+      "avatar": "https://picsum.photos/seed/mAMf6LUt/640/480"
+    },
+    {
+      "name": "Margarett",
+      "email": "Aniya_McClure@yahoo.com",
+      "avatar": "https://picsum.photos/seed/qgeOS/640/480"
+    },
+    {
+      "name": "Letitia",
+      "email": "Zakary_Bode-Thiel46@hotmail.com",
+      "avatar": "https://picsum.photos/seed/E4k14rvbMD/640/480"
+    },
+    {
+      "name": "Tevin",
+      "email": "Hubert_Koepp@hotmail.com",
+      "avatar": "https://loremflickr.com/640/480?lock=2080317103931392"
+    },
+    {
+      "name": "Damaris",
+      "email": "Remington.Paucek-Mertz@gmail.com",
+      "avatar": "https://loremflickr.com/640/480?lock=1393807113322496"
+    },
+    {
+      "name": "Rene",
+      "email": "Juston_Thompson@hotmail.com",
+      "avatar": "https://picsum.photos/seed/6vvVp8CS4/640/480"
+    },
+    {
+      "name": "Gabriel",
+      "email": "Mckenna_Boehm45@gmail.com",
+      "avatar": "https://loremflickr.com/640/480?lock=6329649223172096"
+    },
+    {
+      "name": "Naomi",
+      "email": "Joannie.Rolfson@hotmail.com",
+      "avatar": "https://picsum.photos/seed/Y75VMLz/640/480"
+    },
+    {
+      "name": "Garrett",
+      "email": "Leda.Corkery@yahoo.com",
+      "avatar": "https://loremflickr.com/640/480?lock=2368827885092864"
+    },
+    {
+      "name": "Angelo",
+      "email": "Zetta.Beahan39@hotmail.com",
+      "avatar": "https://loremflickr.com/640/480?lock=726774962978816"
+    }
+  ],
+  "product": [],
+  "products": [
+    { "name": "Wired Headphones" },
+    { "name": "AA Batteries (4-pack)" },
+    { "name": "27in FHD Monitor" },
+    { "name": "AAA Batteries (4-pack)" },
+    { "name": "iPhone" },
+    { "name": "USB-C Charging Cable" },
+    { "name": "Lightning Charging Cable" },
+    { "name": "ThinkPad Laptop" },
+    { "name": "34in Ultrawide Monitor" },
+    { "name": "Google Phone" },
+    { "name": "Apple Airpods Headphones" },
+    { "name": "LG Dryer" },
+    { "name": "Bose SoundSport Headphones" },
+    { "name": "Flatscreen TV" },
+    { "name": "27in 4K Gaming Monitor" },
+    { "name": "Macbook Pro Laptop" },
+    { "name": "20in Monitor" },
+    { "name": "Vareebadd Phone" },
+    { "name": "LG Washing Machine" },
+    { "name": "Product" }
+  ]
+}
